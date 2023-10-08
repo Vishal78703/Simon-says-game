@@ -26,6 +26,11 @@ Welcome to the Simon Says game project! This interactive web-based game challeng
 
 To get started with the game, simply open the `index.html` file in a web browser. Press any key to start the game.
 
+## Output on Correct Selection
+
+- When the player correctly repeats a color in the sequence, it will flash with a green color.
+- This visual feedback confirms the correct selection and adds to the overall gaming experience.
+
 ## Features
 
 - **Engaging Gameplay**: Players are tasked with replicating increasingly complex patterns, enhancing memory and cognitive skills.
